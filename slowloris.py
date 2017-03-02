@@ -2,7 +2,7 @@ import socket
 import random
 import time
 
-ip = "80.112.158.74"
+ip = ""
 socket_count = 500
 port = 80
 
